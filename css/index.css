@@ -51,6 +51,15 @@ body{
 #userfoto{
     display: inline-block;
     position: relative;
+    height: 70px;
     left: 1300px;
-    top: -125px;
+    top: -128px;
+    color: white;
+}
+#colores{
+    color: white;
+    top: 2px;
+    right: 3px;
+    display:inline-block;
+    position: relative;
 }
