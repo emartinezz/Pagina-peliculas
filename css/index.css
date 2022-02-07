@@ -1,11 +1,12 @@
 body{
-     font-family: Arial, Helvetica;
-     background: #e8e8e8;
+    font-family: 'Rowdies', cursive;
+    font-family: 'Secular One', sans-serif;
+     background: #1C1F2B;
 }
 #menu{
     list-style: none;
     padding: 0;
-    background: #092327;
+    background: #00000000;
     width: 90%;
     max-width: 1000px;
     margin: auto;
@@ -19,4 +20,18 @@ body{
     color: white;
     padding: 20px;
     display: block;
+}
+#menu li a:hover{
+ background: orange;
+
+}
+#logo{
+    color: white;
+    display: inline-block;
+    position: relative;
+    top: 60px;
+}
+#fotologo{
+    display: inline-block;
+    height: 40px;
 }
