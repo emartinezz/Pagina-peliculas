@@ -41,3 +41,16 @@ body{
     height: 40px;
   
 }
+#username{
+    color: white;
+    position: relative;
+    display: inline-block;
+    left: 1285px;
+    top: -150px;
+}
+#userfoto{
+    display: inline-block;
+    position: relative;
+    left: 1300px;
+    top: -125px;
+}
