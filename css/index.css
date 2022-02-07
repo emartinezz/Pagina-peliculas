@@ -10,10 +10,14 @@ body{
     width: 90%;
     max-width: 1000px;
     margin: auto;
+    position: relative;
+    top: -65px;
+    left: 15px;
 }
 #menu li{
     display: inline-block;
     text-align: center;
+
 }
 #menu li a{
     text-decoration: none;
@@ -29,9 +33,11 @@ body{
     color: white;
     display: inline-block;
     position: relative;
-    top: 60px;
+    top: 5px;
+    left: 45px ;
 }
 #fotologo{
     display: inline-block;
     height: 40px;
+  
 }
