@@ -63,3 +63,8 @@ body{
     display:inline-block;
     position: relative;
 }
+#Titulo1{
+    color: white;
+    text-align: center;
+    height: 150px;
+}
