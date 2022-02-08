@@ -13,11 +13,13 @@ html {
   }
   
   .item {
-    width: 35%;
+    width: 50%;
     position: relative;
     display: inline-block;
     padding: 15px;
     cursor: pointer;
+    top: 650px;
+    left: 50px;
   }
   
   .item__border {
