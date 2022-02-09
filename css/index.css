@@ -65,7 +65,7 @@ body{
 }
 #colores{
     color: white;
-    top: 2px;
+    top: -2px;
     right: 3px;
     display:inline-block;
     position: relative;
@@ -79,5 +79,7 @@ body{
     color: white;
     position: relative;
     display: inline-block;
-
+    top: 180px;
+    left: 110px;   
 }
+
