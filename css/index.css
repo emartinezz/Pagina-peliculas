@@ -12,7 +12,7 @@ body{
     margin: auto;
     position: relative;
     top: -65px;
-    left: 15px;
+    left: 85px;
 
 }
 #menu li{
@@ -34,10 +34,14 @@ body{
     color: white;
     display: inline-block;
     position: relative;
-    top: 5px;
+  }
+#logocom{
+    top: 25px;
     left: 45px ;
-
+    display: inline-block;
+    position: relative;
 }
+
 #fotologo{
     display: inline-block;
     height: 40px;
@@ -47,15 +51,16 @@ body{
     color: white;
     position: relative;
     display: inline-block;
-    left: 1285px;
-    top: -150px;
+    left: 340px;
+    
+
 }
 #userfoto{
     display: inline-block;
     position: relative;
     height: 70px;
-    left: 1300px;
-    top: -128px;
+    left: 350px;
+    top: 25px;
     color: white;
 }
 #colores{
